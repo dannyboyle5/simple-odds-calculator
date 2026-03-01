@@ -1,0 +1,2 @@
+# simple-odds-calculator
+Can find the probability of an event happening atleast once, the probability of an event happening atleast twice, and the probability of an event happening exactly k times using the binomial function.
